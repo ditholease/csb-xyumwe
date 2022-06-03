@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://ditholease.github.io/csb-xyumwe/static/css/main.45d4fbeb.chunk.css",
+    "main.js": "https://ditholease.github.io/csb-xyumwe/static/js/main.f1853fe0.chunk.js",
+    "main.js.map": "https://ditholease.github.io/csb-xyumwe/static/js/main.f1853fe0.chunk.js.map",
+    "runtime-main.js": "https://ditholease.github.io/csb-xyumwe/static/js/runtime-main.352b0a32.js",
+    "runtime-main.js.map": "https://ditholease.github.io/csb-xyumwe/static/js/runtime-main.352b0a32.js.map",
+    "static/css/2.4173a4ba.chunk.css": "https://ditholease.github.io/csb-xyumwe/static/css/2.4173a4ba.chunk.css",
+    "static/js/2.ccf62389.chunk.js": "https://ditholease.github.io/csb-xyumwe/static/js/2.ccf62389.chunk.js",
+    "static/js/2.ccf62389.chunk.js.map": "https://ditholease.github.io/csb-xyumwe/static/js/2.ccf62389.chunk.js.map",
+    "index.html": "https://ditholease.github.io/csb-xyumwe/index.html",
+    "precache-manifest.1b339487fb1fbe5926eee2728bb93b4f.js": "https://ditholease.github.io/csb-xyumwe/precache-manifest.1b339487fb1fbe5926eee2728bb93b4f.js",
+    "service-worker.js": "https://ditholease.github.io/csb-xyumwe/service-worker.js",
+    "static/css/2.4173a4ba.chunk.css.map": "https://ditholease.github.io/csb-xyumwe/static/css/2.4173a4ba.chunk.css.map",
+    "static/css/main.45d4fbeb.chunk.css.map": "https://ditholease.github.io/csb-xyumwe/static/css/main.45d4fbeb.chunk.css.map",
+    "static/js/2.ccf62389.chunk.js.LICENSE.txt": "https://ditholease.github.io/csb-xyumwe/static/js/2.ccf62389.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.352b0a32.js",
+    "static/css/2.4173a4ba.chunk.css",
+    "static/js/2.ccf62389.chunk.js",
+    "static/css/main.45d4fbeb.chunk.css",
+    "static/js/main.f1853fe0.chunk.js"
+  ]
+}
